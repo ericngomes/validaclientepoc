@@ -8,6 +8,6 @@ Tecnologias utilizadas: Maven, jetty para o container Rest, Spring Data para
 
 *English Language: 
 This is a POC that serves as a simple example of how to make a REST call to create and find
-Customers and Phones Entities using Spring to manage and orchestrate serviçoes and SprintData managing the persistence layer.
+Customers and Phones Entities using Spring to manage and orchestrate services and SprintData managing the persistence layer.
 
 Technologies used: Maven jetty for container Rest, Spring Date for.
