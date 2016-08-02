@@ -1,9 +1,10 @@
 # validaclientepoc
-
-*Portuguese Language:
+<br>
+<li>
+<ul>Portuguese Language:</ul><br>
 Este é uma POC que serve de exemplo simples de como fazer uma chamada REST para criar e consultar
 Clientes e telefones, utilizando o Spring para gerencia e orquestrar os serviçoes e SprintData gerenciando a camada de persistencia.
-
+</li>
 Tecnologias utilizadas: Maven, jetty para o container Rest, Spring Data para
 
 *English Language: 
